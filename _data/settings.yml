@@ -1,16 +1,16 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
+title: Jafe™
 logo: JAFE-LOGO-INDEX.png # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+description: Just a Homelab
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Jafe Bar
+  name: Jafe™ Bar
   image: 011.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
+  say-hello: Welcome to <strong>Jafe™</strong>
   bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
