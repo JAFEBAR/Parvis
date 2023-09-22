@@ -1,0 +1,12 @@
+#!/bin/ash
+echo 'Push site'
+jekyll clean
+jekyll build
+sleep 2
+
+rm -rf /Server/Static-sites/hitch/*
+cp -r _site/* /Server/Static-sites/hitch/
+
+git add .
+git commit -m 'update'
+git push -f
