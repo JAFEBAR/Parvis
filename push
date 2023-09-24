@@ -4,8 +4,8 @@ jekyll clean
 jekyll build
 sleep 2
 
-rm -rf /Server/Static-sites/hitch/*
-cp -r _site/* /Server/Static-sites/hitch/
+rm -rf /Server/jafe.pages/*
+cp -r _site/* /Server/jafe.pages/
 
 git add .
 git commit -m 'update'
